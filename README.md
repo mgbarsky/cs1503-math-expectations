@@ -1,1 +1,1 @@
-# cs1503-math-expectations
+# Math problems for expectations
